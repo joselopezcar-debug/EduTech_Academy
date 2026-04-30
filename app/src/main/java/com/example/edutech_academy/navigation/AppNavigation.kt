@@ -6,6 +6,7 @@ import androidx.navigation.NavType
 import androidx.navigation.compose.*
 import androidx.navigation.navArgument
 import com.example.edutech_academy.screens.*
+import com.example.edutech_academy.screens.CoursesScreen
 
 @Composable
 fun AppNavigation() {
